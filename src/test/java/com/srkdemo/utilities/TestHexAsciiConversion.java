@@ -1,8 +1,8 @@
-package com.srkademo.utilities;
+package com.srkdemo.utilities;
 
 import static org.junit.Assert.*;
 
-import com.edurekademo.utilities.HexAsciiConvertor;
+import com.srkdemo.utilities.HexAsciiConvertor;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
